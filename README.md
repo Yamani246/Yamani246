@@ -4,7 +4,7 @@
 
 A passionate **Web Developer**. I enjoy solving problems and building scalable, user-friendly applications.
 
-🔭 Currently working on various web projects using the **MERN** stack and **Python frameworks** like **Django** and **Flask**.
+🔭 Currently working on various web projects using the **React**  and **Python frameworks** like **Django** and **Flask**.
 
 - 💪 **Problem-solving** is my strength, and I’m always learning new technologies to improve my skills.
 - 🌱 Currently expanding my knowledge of **Algorithms**, and **Web Development**.
@@ -17,8 +17,9 @@ A passionate **Web Developer**. I enjoy solving problems and building scalable, 
 - GitHub: [Yamani246](https://github.com/Yamani246)
 
 ## 🔧 Languages and Tools:
-- **Frontend**: React, JavaScript, HTML, CSS
-- **Backend**: Django, Node.js, Flask
+- **Programming Languages**: Python, C++, C, Javascript
+- **Frontend**: React, HTML, CSS
+- **Backend**: Django, Flask
 - **Database**: SQL
 - **Version Control**: Git, GitHub
 
