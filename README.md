@@ -12,9 +12,9 @@ A passionate **Web Developer** and **Software Engineer**. I enjoy solving proble
 - 🎯 Aiming for opportunities in **Software Engineering** roles with a focus on **full-stack development**.
 
 ## 📫 How to reach me:
-- Email: [yamani.tasubilli@gmail.com](mailto:tasubilliyamani@gmail.com)
-- LinkedIn: [Yamani Tasubilli]([https://www.linkedin.com/in/yamani-tasubilli](https://www.linkedin.com/in/yamani-tasubilli-724502227/))
-- GitHub: [Yamani Tasubilli](https://github.com/Yamani246)
+- Email: [tasubilliyamani@gmail.com](mailto:tasubilliyamani@gmail.com)
+- LinkedIn: [Yamani Tasubilli](https://www.linkedin.com/in/yamani-tasubilli-724502227/)
+- GitHub: [Yamani246](https://github.com/Yamani246)
 
 ## 🔧 Languages and Tools:
 - **Frontend**: React, JavaScript, HTML, CSS
