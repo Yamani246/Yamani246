@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Yamani Tasubilli
 
-A passionate **Web Developer** and **Software Engineer**. I enjoy solving problems and building scalable, user-friendly applications.
+A passionate **Web Developer**. I enjoy solving problems and building scalable, user-friendly applications.
 
 🔭 Currently working on various web projects using the **MERN** stack and **Python frameworks** like **Django** and **Flask**.
 
