@@ -24,5 +24,5 @@ A passionate **Web Developer** and **Software Engineer**. I enjoy solving proble
 
 ## 🌐 Coding Profiles:
 - **CodeChef**: [yamani (codechef)](https://www.codechef.com/users/yamani) 
-- **LeetCode**: [tasubilliyamani (LeetCode)](https://leetcode.com/yamani_tasubilli/) 
+- **LeetCode**: [tasubilliyamani (LeetCode)](https://leetcode.com/u/tasubilliyamani/) 
 
