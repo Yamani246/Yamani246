@@ -8,7 +8,7 @@ A passionate **Web Developer** and **Software Engineer**. I enjoy solving proble
 
 - 💪 **Problem-solving** is my strength, and I’m always learning new technologies to improve my skills.
 - 🌱 Currently expanding my knowledge of **Algorithms**, and **Web Development**.
-- 🏆 **3-Star CodeChef** coder with **600+ problems solved** across platforms like **LeetCode**.
+- 💻 **600+ problems solved** across platforms like LeetCode, CodeChef ...
 - 🎯 Aiming for opportunities in **Software Engineering** roles with a focus on **full-stack development**.
 
 ## 📫 How to reach me:
@@ -23,6 +23,6 @@ A passionate **Web Developer** and **Software Engineer**. I enjoy solving proble
 - **Version Control**: Git, GitHub
 
 ## 🌐 Coding Profiles:
-- **CodeChef**: [yamani (codechef)](https://www.codechef.com/users/yamani) - 💻
+- **CodeChef**: [yamani (codechef)](https://www.codechef.com/users/yamani) 
 - **LeetCode**: [tasubilliyamani (LeetCode)](https://leetcode.com/yamani_tasubilli/) 
 
