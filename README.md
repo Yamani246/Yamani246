@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Yamani246/Yamani246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi 👋, I'm Yamani Tasubilli
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A passionate **Web Developer** and **Software Engineer**. I enjoy solving problems and building scalable, user-friendly applications.
+
+🔭 Currently working on various web projects using the **MERN** stack and **Python frameworks** like **Django** and **Flask**.
+
+- 💪 **Problem-solving** is my strength, and I’m always learning new technologies to improve my skills.
+- 🌱 Currently expanding my knowledge of **Algorithms**, and **Web Development**.
+- 🏆 **3-Star CodeChef** coder with **600+ problems solved** across platforms like **LeetCode**.
+- 🎯 Aiming for opportunities in **Software Engineering** roles with a focus on **full-stack development**.
+
+## 📫 How to reach me:
+- Email: [yamani.tasubilli@gmail.com](mailto:tasubilliyamani@gmail.com)
+- LinkedIn: [Yamani Tasubilli]([https://www.linkedin.com/in/yamani-tasubilli](https://www.linkedin.com/in/yamani-tasubilli-724502227/))
+- GitHub: [Yamani Tasubilli](https://github.com/Yamani246)
+
+## 🔧 Languages and Tools:
+- **Frontend**: React, JavaScript, HTML, CSS
+- **Backend**: Django, Node.js, Flask
+- **Database**: SQL
+- **Version Control**: Git, GitHub
+
+## 🌐 Coding Profiles:
+- **CodeChef**: [yamani (codechef)](https://www.codechef.com/users/yamani) - 💻
+- **LeetCode**: [tasubilliyamani (LeetCode)](https://leetcode.com/yamani_tasubilli/) 
+
